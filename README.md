@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋🏻, I'm A. Valeria </h1>
-<h3 align="center">🌱 I’m currently studying computer science at UNAM</h3>
+<h1 align="center">Hi 👋🏻, I'm A. Valeria 🌿</h1>
+<h3 align="center">🪻 I’m currently studying computer science at UNAM</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 
