@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm A. Valeria 🌿</h1>
-<h3 align="center"> 🎓​ I’m currently studying computer science at UNAM </h3>
-<h3 align="center"> 👩‍💻​ I've interest in Frontend Web Development </h3>
+<h3 align="center"> 🎓​ I studied Computer Science at UNAM </h3>
+<h3 align="center"> 👩‍💻​ I'm interested in Frontend Web Development </h3>
 
 <h3 align="center">Languages and Tools:</h3>
 
