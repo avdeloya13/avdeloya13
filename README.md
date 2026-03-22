@@ -15,7 +15,7 @@
 
 <h3 align="center">📜 Certifications</h3>
 <details>
-  <summary> From Google, Santander & Scrum Academy. (Click to expand)</summary>
+  <summary> <b> From Google, Santander & Scrum Academy. (Click to expand) </b></summary>
   <div style="padding: 15px;">
     • Scrum <br>
     • Cybersecurity <br>
