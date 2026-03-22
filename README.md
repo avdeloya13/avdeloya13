@@ -7,7 +7,10 @@
 - <h4> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design and Data Science </h4>
 - <h4> 🌐 English B2, Spanish Native </h4> 
 
-<h3 align="center"> 🖥️ Languages: </h3>
+---
+
+## 🖥️ Languages:
+
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
@@ -28,7 +31,9 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
   </a>
 </p>
-<h3 align="center"> 🛠️ Tools: </h3>
+
+## 🛠️ Tools:
+
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
@@ -49,7 +54,9 @@
     <img src="https://img.shields.io/badge/MIT_App_Inventor-4A154B?style=for-the-badge&logo=mit&logoColor=white" alt="mit app inventor"/>
   </a>
 </p>
-<h3 align="center"> ⚙️ IDEs & Environments: </h3>
+
+## ⚙️ IDEs & Environments:
+
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
@@ -62,7 +69,9 @@
   </a>
 </p>
 
-<h3 align="center"> 📊 GitHub Stats: </h3>
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avdeloya13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
