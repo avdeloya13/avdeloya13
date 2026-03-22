@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=2000&color=51AC03&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+A.+Valeria+%F0%9F%8C%BF" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=7000&pause=1000&color=51AC03&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+A.+Valeria+%F0%9F%8C%BF" alt="Typing SVG" /></a>
 ---
 <h3 align="center"> 🎓 I studied Computer Science at UNAM </h3> 
 <h3 align="center"> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design </br> and Data Science </h3>
