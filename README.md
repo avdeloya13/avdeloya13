@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋🏻, I'm A. Valeria 🌿</h1>
-<h4 align="center"> 🎓 I studied <b>Computer Science</b> at UNAM </h4> 
-<h4 align="center"> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design </br> and Data Science </h4>
-<h4 align="center"> 🌐 English <b>B2</b>, Spanish Native </h4> 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=51AC03&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+A.+Valeria+%F0%9F%8C%BF" alt="Typing SVG" />
+</div>
 
-- <h3> 🖥️ Languages</h3>
+<h3 align="center"> 🎓 I studied Computer Science at UNAM </h3> 
+<h3 align="center"> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design </br> and Data Science </h3>
+<h3 align="center"> 🌐 English B2, Spanish Native </h3> 
+
+<h3 align = "center"> Languages: </h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
@@ -25,7 +28,7 @@
   </a>
 </div>
 
-<h3 align="center">🛠️ Tools</h3>
+<h3 align="center"> Tools: </h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
@@ -47,7 +50,7 @@
   </a>
 </p>
 
-<h3 align="center">💻 IDEs & Environments</h3>
+<h3 align="center"> IDEs & Environments</h3>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
@@ -55,9 +58,10 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"/>
   </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio"/>
+  </a>
 </p>
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avdeloya13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
