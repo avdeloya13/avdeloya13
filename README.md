@@ -1,11 +1,12 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=7000&pause=1000&color=51AC03&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+A.+Valeria+%F0%9F%8C%BF" alt="Typing SVG" /></a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=51AC03&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+A.+Valeria+%F0%9F%8C%BF" alt="Typing SVG" /></div>
 ---
 <h3 align="center"> 🎓 I studied Computer Science at UNAM </h3> 
 <h3 align="center"> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design </br> and Data Science </h3>
 <h3 align="center"> 🌐 English B2, Spanish Native </h3> 
 
 <h3 align = "center"> Languages: </h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+<p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
@@ -24,7 +25,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
   </a>
-</div>
+</p>
 
 <h3 align="center"> Tools: </h3>
 <p align="center">
