@@ -3,9 +3,9 @@
 
 ---
 
-- <h3> 🎓 I studied Computer Science at UNAM </h3> 
-- <h3> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design and Data Science </h3>
-- <h3> 🌐 English B2, Spanish Native </h3> 
+- <h3 align="center"> 🎓 I studied Computer Science at UNAM </h3> 
+- <h3 align="center"> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design and Data Science </h3>
+- <h3 align="center"> 🌐 English B2, Spanish Native </h3> 
 
 ---
 
