@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋🏻, I'm A. Valeria 🌿</h1>
-<h3 class="pulse">🎓</h3> I studied <b>Computer Science</b> at UNAM  
+<h3 class="pulse"> 🎓 I studied <b>Computer Science</b> at UNAM </h3> 
 <h3 align="center"> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design </br> and Data Science </h3>
 
 English B2 | Spanish Native
