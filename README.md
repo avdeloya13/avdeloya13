@@ -3,11 +3,11 @@
 
 ---
 
-- <h3> 🎓 I studied Computer Science at UNAM </h3> 
-- <h3> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design </br> and Data Science </h3>
-- <h3> 🌐 English B2, Spanish Native </h3> 
+- <h4> 🎓 I studied Computer Science at UNAM </h4> 
+- <h4> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design and Data Science </h4>
+- <h4> 🌐 English B2, Spanish Native </h4> 
 
-<h3 align="center"> Languages: </h3>
+<h3 align="center"> 🖥️ Languages: </h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
   </a>
 </p>
-<h3 align="center"> Tools: </h3>
+<h3 align="center"> 🛠️ Tools: </h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/MIT_App_Inventor-4A154B?style=for-the-badge&logo=mit&logoColor=white" alt="mit app inventor"/>
   </a>
 </p>
-<h3 align="center"> IDEs & Environments: </h3>
+<h3 align="center"> ⚙️ IDEs & Environments: </h3>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
