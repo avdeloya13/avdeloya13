@@ -62,25 +62,12 @@
   </a>
 </p>
 
---
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avdeloya13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avdeloya13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=merko&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
-
-<h3 align="center">📜 Certifications</h3>
-<p align="center">
-  <a href="https://github.com/avdeloya13/Certificaciones" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="google certification"/>
-  </a>
-  <a href="https://github.com/avdeloya13/Certificaciones" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Santander-EC0000?style=for-the-badge&logo=santander&logoColor=white" alt="santander certification"/>
-  </a>
-  <a href="https://github.com/avdeloya13/Certificaciones" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Scrum_Academy-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="scrum academy certification"/>
-  </a>
-</p>
 
 ###
 
