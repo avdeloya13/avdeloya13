@@ -13,6 +13,18 @@
 
 - <h3> IDEs & Environments: </h3> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/> </a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"/> </a> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio"/> </a>
 
+<h3 align="center">📜 Certifications</h3>
+<details>
+  <summary> From Google, Santander & Scrum Academy. (Click to expand)</summary>
+  <div style="padding: 15px;">
+    • Scrum <br>
+    • Cybersecurity <br>
+    • Artificial Intelligence <br>
+    • Linux and SQL<br>
+    • <a href="https://github.com/avdeloya13/Certificaciones">View on GitHub</a>
+  </div>
+</details>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avdeloya13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avdeloya13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=merko&hide_border=true&order=2" height="150" alt="languages graph" />
