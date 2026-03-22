@@ -9,7 +9,7 @@
 
 ---
 
-<table align="center" border="0" cellspacing="0" cellpadding="16">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td align="left" valign="top">
       <h3>🖥️ Languages</h3>
