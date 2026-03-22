@@ -1,17 +1,10 @@
-
-
 <h1 align="center">Hi 👋🏻, I'm A. Valeria 🌿</h1>
-<h3 class="pulse"> 🎓 I studied <b>Computer Science</b> at UNAM </h3> 
-<h3 align="pulse"> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design </br> and Data Science </h3>
-<h3 class="pulse"> English B2 Spanish Native </h3> 
-
-<h3 align="center">🌐 Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Spanish-Native-2E8B57?style=for-the-badge&logoColor=white" alt="spanish native"/>
-  <img src="https://img.shields.io/badge/English-B2-4682B4?style=for-the-badge&logoColor=white" alt="english b2"/>
+<h3 class="center"> 🎓 I studied <b>Computer Science</b> at UNAM </h3> 
+<h3 align="center"> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design </br> and Data Science </h3>
+<h3 class="center"> 🌐 English <b>B2</b>, Spanish Native </h3> 
 
 <h3 align="center">🖥️ Languages</h3>
-<p align="center">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
@@ -30,7 +23,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
   </a>
-</p>
+</div>
 
 <h3 align="center">🛠️ Tools</h3>
 <p align="center">
