@@ -4,12 +4,12 @@
 ---
 
 <h3 align="center"> 🎓 I studied Computer Science at UNAM </h3> 
-<h3 align="center"> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design </br> and Data Science </h3>
+<h3 align="center"> 👩‍💻 I'm interested in Frontend Web Development, </br> User Experience (UX) Design and Data Science </h3>
 <h3 align="center"> 🌐 English B2, Spanish Native </h3> 
 
 ---
 
-<table align="center" border="0" cellspacing="0" cellpadding="10">
+<table align="center" border="0" cellspacing="0" cellpadding="16">
   <tr>
     <td align="left" valign="top">
       <h3>🖥️ Languages</h3>
@@ -76,7 +76,18 @@
 
 ---
 
-<h3 align="center">📜 Certifications </h3> (Click to view) <a href="https://github.com/avdeloya13/Certificaciones">View on GitHub</a>
+<h3 align="center">📜 Certifications</h3>
+<p align="center">
+  <a href="https://github.com/avdeloya13/Certificaciones" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="google certification"/>
+  </a>
+  <a href="https://github.com/avdeloya13/Certificaciones" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Santander-EC0000?style=for-the-badge&logo=santander&logoColor=white" alt="santander certification"/>
+  </a>
+  <a href="https://github.com/avdeloya13/Certificaciones" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Scrum_Academy-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="scrum academy certification"/>
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avdeloya13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
