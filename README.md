@@ -2,9 +2,13 @@
 
 <h1 align="center">Hi 👋🏻, I'm A. Valeria 🌿</h1>
 <h3 class="pulse"> 🎓 I studied <b>Computer Science</b> at UNAM </h3> 
-<h3 align="center"> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design </br> and Data Science </h3>
+<h3 align="pulse"> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design </br> and Data Science </h3>
+<h3 class="pulse"> English B2 Spanish Native </h3> 
 
-English B2 | Spanish Native
+<h3 align="center">🌐 Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spanish-Native-2E8B57?style=for-the-badge&logoColor=white" alt="spanish native"/>
+  <img src="https://img.shields.io/badge/English-B2-4682B4?style=for-the-badge&logoColor=white" alt="english b2"/>
 
 <h3 align="center">🖥️ Languages</h3>
 <p align="center">
