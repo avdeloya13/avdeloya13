@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm A. Valeria 🌿</h1>
-<h3 align="center"> 🎓 I studied <b>Computer Science</b> at UNAM </h3> 
-<h3 align="center"> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design </br> and Data Science </h3>
-<h3 align="center"> 🌐 English <b>B2</b>, Spanish Native </h3> 
+<h4 align="center"> 🎓 I studied <b>Computer Science</b> at UNAM </h4> 
+<h4 align="center"> 👩‍💻 I'm interested in Frontend Web Development, User Experience (UX) Design </br> and Data Science </h4>
+<h4 align="center"> 🌐 English <b>B2</b>, Spanish Native </h4> 
 
 - <h3> 🖥️ Languages</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
