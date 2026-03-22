@@ -7,8 +7,6 @@
 <h3 align="center"> 👩‍💻 I'm interested in Frontend Web Development, </br> User Experience (UX) Design and Data Science </h3>
 <h3 align="center"> 🌐 English B2, Spanish Native </h3> 
 
----
-
 <table align="center" border="0" cellspacing="0" cellpadding="16">
   <tr>
     <td align="left" valign="top">
@@ -74,7 +72,10 @@
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avdeloya13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avdeloya13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=merko&hide_border=true&order=2" height="150" alt="languages graph" />
+</div>
 
 <h3 align="center">📜 Certifications</h3>
 <p align="center">
@@ -88,11 +89,6 @@
     <img src="https://img.shields.io/badge/Scrum_Academy-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="scrum academy certification"/>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avdeloya13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avdeloya13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=merko&hide_border=true&order=2" height="150" alt="languages graph" />
-</div>
 
 ###
 
