@@ -16,37 +16,13 @@
 ---
 
 <h3 align="center">📜 Certifications</h3>
-<details>
-  <summary><b>Click to expand ▾</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/avdeloya13/Certificaciones" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="scrum"/>
-    </a>
-    <img src="https://img.shields.io/badge/by_SCRUMstudy-009FDA?style=flat&logoColor=white" alt="by scrumstudy"/>
-  </p>
-  <p align="center">
-    <a href="https://github.com/avdeloya13/Certificaciones" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="cybersecurity"/>
-    </a>
-    <img src="https://img.shields.io/badge/by_Google-4285F4?style=flat&logoColor=white" alt="by google"/>
-  </p>
-  <p align="center">
-    <a href="https://github.com/avdeloya13/Certificaciones" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Artificial_Intelligence-EC0000?style=for-the-badge&logo=santander&logoColor=white" alt="artificial intelligence"/>
-    </a>
-    <img src="https://img.shields.io/badge/by_Santander-EC0000?style=flat&logoColor=white" alt="by santander"/>
-  </p>
-  <p align="center">
-    <a href="https://github.com/avdeloya13/Certificaciones" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Linux_and_SQL-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="linux and sql"/>
-    </a>
-    <img src="https://img.shields.io/badge/by_Google-4285F4?style=flat&logoColor=white" alt="by google"/>
-  </p>
+
+  <p> <a href="https://github.com/avdeloya13/Certificaciones" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="scrum fundamentals"/>
+    </a> <img src="https://img.shields.io/badge/by_SCRUMstudy-009FDA?style=flat&logoColor=white" alt="by scrumstudy"/> <a href="https://github.com/avdeloya13/Certificaciones" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="cybersecurity"/> </a> <img src="https://img.shields.io/badge/by_Google-4285F4?style=flat&logoColor=white" alt="by google"/> <a href="https://github.com/avdeloya13/Certificaciones" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Artificial_Intelligence-EC0000?style=for-the-badge&logo=santander&logoColor=white" alt="artificial intelligence"/> <img src="https://img.shields.io/badge/by_Santander-EC0000?style=flat&logoColor=white" alt="by santander"/> <a href="https://github.com/avdeloya13/Certificaciones" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux_and_SQL-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="linux and sql"/> <img src="https://img.shields.io/badge/by_Google-4285F4?style=flat&logoColor=white" alt="by google"/> </p>
   <p align="center">
     <a href="https://github.com/avdeloya13/Certificaciones">🔗 View all certificates on GitHub</a>
   </p>
-</details>
 
 ---
 
