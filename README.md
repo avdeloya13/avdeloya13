@@ -17,7 +17,10 @@
 
 <h3 align="center">📜 Certifications</h3>
 <details>
-  <summary> <b> From Google, Santander & Scrum Academy. (Click to expand) </b></summary>
+  <summary> <b> From 
+  <a href="https://about.google/intl/es_ALL/company-info/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="google certification"/>
+  </a>, Santander & Scrum Academy. (Click to expand) </b></summary>
   <div style="padding: 15px;">
     • Scrum <br>
     • Cybersecurity <br>
