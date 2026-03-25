@@ -20,7 +20,7 @@
   <summary> <b> From 
   <a href="https://about.google/intl/es_ALL/company-info/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="google certification"/>
-  </a>, <a href="https://www.santander.com/es/stories/becas-santander" target="_blank" rel="noreferrer">
+  </a> <a href="https://www.santander.com/es/stories/becas-santander" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Santander-EC0000?style=for-the-badge&logo=santander&logoColor=white" alt="santander open academy certification"/> </a> <a href="https://www.scrumstudy.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/SCRUMstudy-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="scrumstudy certification"/> </a> (Click here to expand) </b></summary>
   
